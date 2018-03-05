@@ -1,0 +1,7 @@
+Trying to connect to the server
+Connection Established
+server message:Welcome
+Trying to connect to the server
+Connection Established
+Welcome
+Please Enter a Username: 
